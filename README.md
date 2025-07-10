@@ -5,8 +5,6 @@ This paper presents Enhanced Pix2Pix (Enh-Pix2Pix), an advanced conditional gene
 Dataset Available: 
 AbdomenCT-1K dataset link: https://zenodo.org/records/5903769
 
-LIDC-IDRI dataset link: https://www.cancerimagingarchive.net/collection/lidc-idri/
-
 LUNA16 dataset link: https://www.kaggle.com/datasets/avc0706/luna16
 
 #
